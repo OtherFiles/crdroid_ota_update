@@ -1,5 +1,13 @@
 *** Full Changelog ***
 
+### 30.06.2025 ###
+
+• Hardware acceleration enablement
+• Reduce system idle time
+• Touch timer adjustment
+• Initial and final composition time optimization
+• Increase the volume of the speaker, microphone, speaker, headphones
+
 ### 29.06.2025 ###
 
 • Updated source code v11.6
