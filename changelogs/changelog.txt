@@ -1,0 +1,30 @@
+*** Full Changelog ***
+
+### 29.06.2025 ###
+
+• Updated source code v11.6
+• Optimize java for system processes
+• Activated new design A16
+• Added OTA support
+• Improved microphone quality
+• Stock recovery replacement removed
+• Added KernelSU-next+SusFS support
+• Minor changes and improvements
+
+### 24.06.2025 ###
+
+• Initial stable release
+• June security patch 
+
+======================================================
+
+• Clean Flash Is Mandatory
+• Use Latest FW for Region's
+• EROFS build
+• Included ViperFX, MiuiCamera, KernelSU-next+SusFS
+
+======================================================
+
+• Thanks for the base trees @grewal
+• Thanks for the tester @MyRegion, @ZAKPbITO
+
