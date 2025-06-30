@@ -1,0 +1,28 @@
+{
+    "response": [
+        {
+            "maintainer": "senseideveloper",
+            "oem": "Redmi",
+            "device": "Redmi Note 13 Pro 5G",
+            "filename": "crDroidAndroid-15.0-20250629-garnet-v11.6.zip",
+            "download": "https://github.com/OtherFiles/crdroid_ota_update/releases/download/crDroidAndroid-15.0-20250629-garnet-v11.6/crDroidAndroid-15.0-20250629-garnet-v11.6.zip",
+            "timestamp": 1750442792,
+            "md5": "03339e4cfeda2413e1a892b9ea115921",
+            "sha256": "c7b8186187f95d76e6e8eafd9decccf17de0f1198339610837e1c16f6a6ceaf4",
+            "size": 1908248371,
+            "version": "11.6",
+            "buildtype": "Weekly",
+            "forum": "",
+            "gapps": "",
+            "firmware": "",
+            "modem": "",
+            "bootloader": "",
+            "recovery": "https://dl.orangefox.download/67f64be433482976f0b31240",
+            "paypal": "",
+            "telegram": "https://t.me/garnetromsupport",
+            "dt": "",
+            "common-dt": "",
+            "kernel": ""
+        }
+    ]
+}
