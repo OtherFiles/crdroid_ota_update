@@ -1,5 +1,9 @@
 *** Full Changelog ***
 
+### 01.06.2025 ###
+
+• Bring back the old style of qs panel A15
+
 ### 30.06.2025 ###
 
 • Hardware acceleration enablement
