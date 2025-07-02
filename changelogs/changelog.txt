@@ -1,27 +1,40 @@
 *** Full Changelog ***
 
-### 01.06.2025 ###
+### 02.07.2025 ###
+
+• Improve the sound quality by adjusting the volume and controlling the speakers
+• Change the default color profile to Vivid
+• Switch to Proton kernel with KSU+SuSFS
+• Change the display saturation to 118%
+• Enable QTI Memory Optimization
+• Enable PCM path for VoIP calls
+• Enable Dolby Vision support
+• Return the old A15 style
+• Improve auto brightness
+• Added support for BCR
+
+### 01.07.2025 ###
 
 • Bring back the old style of qs panel A15
 
 ### 30.06.2025 ###
 
+• Increase the volume of the speaker, microphone, speaker, headphones
+• Initial and final composition time optimization
 • Hardware acceleration enablement
 • Reduce system idle time
 • Touch timer adjustment
-• Initial and final composition time optimization
-• Increase the volume of the speaker, microphone, speaker, headphones
 
 ### 29.06.2025 ###
 
-• Updated source code v11.6
 • Optimize java for system processes
-• Activated new design A16
-• Added OTA support
-• Improved microphone quality
 • Stock recovery replacement removed
 • Added KernelSU-next+SusFS support
 • Minor changes and improvements
+• Improved microphone quality
+• Updated source code v11.6
+• Activated new design A16
+• Added OTA support
 
 ### 24.06.2025 ###
 
@@ -33,7 +46,7 @@
 • Clean Flash Is Mandatory
 • Use Latest FW for Region's
 • EROFS build
-• Included ViperFX, MiuiCamera, KernelSU-next+SusFS
+• Included ViperFX, MiuiCamera, KernelSU-next+SusFS, BCR
 
 ======================================================
 
