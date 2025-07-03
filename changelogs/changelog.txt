@@ -1,5 +1,13 @@
 *** Full Changelog ***
 
+### 03.07.2025 ###
+
+• Hardcode recent overview color in dark mode
+• Change the default icon size to 110%
+• Add mem info background chip
+• Fixed auto brightness
+• Fixed sound issue
+
 ### 02.07.2025 ###
 
 • Improve the sound quality by adjusting the volume and controlling the speakers
