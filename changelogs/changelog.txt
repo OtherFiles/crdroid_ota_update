@@ -3,6 +3,7 @@
 ### 12.07.2025 ###
 
 • Added switch to the compact media player in the QS panel
+• Add recents and app drawer opacity customization
 • Change the default color profile to P3
 • Added switch to the QS panel A16 style
 • Introduce High Brightness Mode (HBM)
