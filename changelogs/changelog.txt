@@ -1,5 +1,17 @@
 *** Full Changelog ***
 
+### 12.07.2025 ###
+
+• Added switch to the compact media player in the QS panel
+• Change the default color profile to P3
+• Added switch to the QS panel A16 style
+• Introduce High Brightness Mode (HBM)
+• Fixed Top speaker on Lock screen
+• Switch to 64-bit audio library
+• Fixed some audio issues
+• Switch to JamesDSP
+• Some improvements
+
 ### 03.07.2025 ###
 
 • Hardcode recent overview color in dark mode
