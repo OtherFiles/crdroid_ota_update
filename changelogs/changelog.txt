@@ -1,5 +1,11 @@
 *** Full Changelog ***
 
+### 14.07.2025 ###
+
+• Updated source code v11.7 
+• July security patch 
+• Fingerprint styles and animations included
+
 ### 12.07.2025 ###
 
 • Added switch to the compact media player in the QS panel
