@@ -1,5 +1,16 @@
 *** Full Changelog ***
 
+### 29.07.2025 ###
+
+• Fixing connecting BLE (bt 5.x) devices (smart watches, etc.)
+• Fingerprint styles and animations included
+• Enable freeform multi-windows
+• Added support for Dolby Vision
+• Switch to EXT4 file system
+• Switch to Vanilla build
+• Switch to Dolby Atmos
+• System more stability and etc.
+
 ### 12.07.2025 ###
 
 • Added switch to the compact media player in the QS panel
